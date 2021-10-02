@@ -1,0 +1,10 @@
+E:\Fatec\2 Sem\LP\Prova Alexandre\Prova Alexandre\bin\Debug\Prova Alexandre.exe.config
+E:\Fatec\2 Sem\LP\Prova Alexandre\Prova Alexandre\bin\Debug\Prova Alexandre.exe
+E:\Fatec\2 Sem\LP\Prova Alexandre\Prova Alexandre\bin\Debug\Prova Alexandre.pdb
+E:\Fatec\2 Sem\LP\Prova Alexandre\Prova Alexandre\obj\Debug\Prova Alexandre.csproj.AssemblyReference.cache
+E:\Fatec\2 Sem\LP\Prova Alexandre\Prova Alexandre\obj\Debug\Prova_Alexandre.Form1.resources
+E:\Fatec\2 Sem\LP\Prova Alexandre\Prova Alexandre\obj\Debug\Prova_Alexandre.Properties.Resources.resources
+E:\Fatec\2 Sem\LP\Prova Alexandre\Prova Alexandre\obj\Debug\Prova Alexandre.csproj.GenerateResource.cache
+E:\Fatec\2 Sem\LP\Prova Alexandre\Prova Alexandre\obj\Debug\Prova Alexandre.csproj.CoreCompileInputs.cache
+E:\Fatec\2 Sem\LP\Prova Alexandre\Prova Alexandre\obj\Debug\Prova Alexandre.exe
+E:\Fatec\2 Sem\LP\Prova Alexandre\Prova Alexandre\obj\Debug\Prova Alexandre.pdb
